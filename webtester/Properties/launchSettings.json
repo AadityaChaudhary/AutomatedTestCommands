@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "webtester": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Public\\Documents\\AutomatedTests"
+    }
+  }
+}

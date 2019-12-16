@@ -1,0 +1,11 @@
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\bin\Debug\netcoreapp2.1\webtester.deps.json
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\bin\Debug\netcoreapp2.1\webtester.runtimeconfig.json
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\bin\Debug\netcoreapp2.1\webtester.runtimeconfig.dev.json
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\bin\Debug\netcoreapp2.1\webtester.dll
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\bin\Debug\netcoreapp2.1\webtester.pdb
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\obj\Debug\netcoreapp2.1\webtester.csprojAssemblyReference.cache
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\obj\Debug\netcoreapp2.1\webtester.csproj.CoreCompileInputs.cache
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\obj\Debug\netcoreapp2.1\webtester.AssemblyInfoInputs.cache
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\obj\Debug\netcoreapp2.1\webtester.AssemblyInfo.cs
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\obj\Debug\netcoreapp2.1\webtester.dll
+C:\Users\intern2.INOVEX-HQ\source\repos\webtester\webtester\obj\Debug\netcoreapp2.1\webtester.pdb

@@ -1,0 +1,16 @@
+OPEN "https://ndsc3-test.inovex.ca/"
+>> step: 1 | result: PASS - open
+WAITFOR XPATH "/html/body/div[4]/div/div/div/p[2]/a"
+>> step: 2 | result: PASS - Waiting for XPATH /html/body/div[4]/div/div/div/p[2]/a
+CLICK XPATH "/html/body/div[4]/div/div/div/p[2]/a"
+>> step: 3 | result: PASS - click
+WAITFOR ID "Login"
+>> step: 4 | result: PASS - Waiting for ID Login
+TYPE ID "UserName" "intern2+ra@inovex.ca"
+>> step: 5 | result: PASS - type
+TYPE ID "Password" "Fcsd12#$"
+>> step: 6 | result: PASS - type
+CLICK ID "Login"
+>> step: 7 | result: PASS - click
+CLOSE
+>> step: 8 | result: CLOSE
