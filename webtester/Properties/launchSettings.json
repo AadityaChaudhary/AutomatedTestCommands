@@ -2,7 +2,7 @@
   "profiles": {
     "webtester": {
       "commandName": "Project",
-      "commandLineArgs": "C:\\Users\\Public\\Documents\\AutomatedTests"
+      "commandLineArgs": "path that the program has access to, and is an empty folder"
     }
   }
 }
